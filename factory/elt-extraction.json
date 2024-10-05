@@ -1,0 +1,9 @@
+{
+	"name": "elt-extraction",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1078aee0-aa65-4913-a972-dacb1bf4cc89",
+		"tenantId": "66aa795c-9bb2-479e-a06f-a6c9ab72f37c"
+	}
+}
